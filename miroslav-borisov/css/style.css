@@ -1,0 +1,49 @@
+/* 
+
+Project Name: Cookie Monster 
+Client: Cookie Monster
+Author: Chris Castiglione | www.twitter.com/castig | www.castig.org 
+Developed @ One Month in NYC 
+
+*/
+
+body {
+	background: url('../images/Gwynbleidd2.png');
+    background-size: cover;
+	background-position: center;
+}
+
+#container {
+	background: #2E3842;
+	width: 450px;
+	padding: 15px;
+}
+
+h1 {
+	font-family: 'Righteous', cursive;
+	font-size: 60px;
+	text-align: center;
+	color: #F4E3C8;
+}
+
+h2 {
+	background: #B58E6F;
+	font-family: 'Righteous', cursive;
+	font-size: 40px;
+	text-align: center;
+	color: #2E3842;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+    font-size: 18px;
+    text-align: left;
+    color: #F4E3C8;
+}
+
+a {
+	color: #B58E6F;
+	text-decoration: none;
+}
